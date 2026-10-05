@@ -6,7 +6,7 @@ I build backend systems that day-to-day operations depend on: SaaS platforms, ti
 
 ### Currently
 
-**[Schulten Media](https://schultenmedia.nl)** · co-founder<br>
+**[Schulten Media](https://schultenmedia.nl)** · co-founder · since Jan 2018<br>
 Custom software studio with 150+ clients: web applications, portals, webshops, integrations and AI automation.
 
 **[Coachio](https://coachio.digital)** · since Oct 2024<br>
