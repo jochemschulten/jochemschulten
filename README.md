@@ -28,7 +28,7 @@ Coaching SaaS for personal trainers and nutrition coaches. Lead developer of the
 
 - **Backend:** PHP 8, Laravel, Filament, Livewire, Symfony, MySQL, Horizon, Reverb, Node.js
 - **Frontend and mobile:** Vue 3, TypeScript, Ionic, Capacitor, Blade, Tailwind
-- **CMS:** OctoberCMS, Statamic, Craft CMS
+- **CMS and e-commerce:** OctoberCMS, Statamic, Craft CMS, Shopify
 - **Infrastructure:** Docker, Linux, Laravel Forge, Fastlane, Sentry
 - **Testing and AI:** PHPUnit, Playwright, Vitest, Cypress, Claude Code
 
@@ -36,7 +36,7 @@ Coaching SaaS for personal trainers and nutrition coaches. Lead developer of the
 
 **Schulten Media is open to freelance work:**
 - Laravel platforms, integrations and booking systems
-- Websites on OctoberCMS, Statamic or Craft CMS
+- Websites and e-commerce on OctoberCMS, Statamic, Craft CMS or Shopify
 - AI that solves a concrete problem in day-to-day operations
 
 [LinkedIn](https://www.linkedin.com/in/jochem-schulten/) · [schultenmedia.nl](https://schultenmedia.nl) · [jsn@schultenmedia.nl](mailto:jsn@schultenmedia.nl)
