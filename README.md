@@ -2,7 +2,7 @@
 
 Senior Backend Engineer · PHP, Laravel, Node.js · Netherlands (CET)
 
-I build backend systems that day-to-day operations depend on: SaaS platforms, ticketing, bookings and third-party integrations. 16 years of PHP and MySQL, 10+ of them with Laravel.
+I build backend systems that day-to-day operations depend on: SaaS platforms, ticketing, bookings and third-party integrations. 15+ years of PHP and MySQL, 10+ of them with Laravel.
 
 ### Currently
 
